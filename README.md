@@ -1,15 +1,15 @@
-# Assignment: Image rotation
+# Simple Image Editor
 
-## Как запускать
+## Usage
 
-В результате выполнения работы получилось приложение, у которого на данный момент есть две функции: поворот на 90, 180 или 270 градусов и создание негатива картинки. Работает только с форматом bmp.
+This application has two options: make negative and rotate pictures 90, 180, 270 degrees
 
-Запуск программы
+How to start
 
 ```
 ./image_editor -a [ACTION] -f [FORMAT] INPUT_FILE OUTPUT_FILE
 ```
-*FORMAT* может быть только bmp
+*FORMAT* can only be BMP 
 
 *ACTION*:
 
